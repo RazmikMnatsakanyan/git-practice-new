@@ -9,8 +9,8 @@ function getMeme(sketchNumber){
     case 4:
       return "Podonok, skotina, otbros obshestva, chmotenas indz. Prosto shelkunchik";
     case 5:
-      return "Che, t@riq 40 metr en kom";
+      return "Che, tyriq 40 metr en kom";
     case 6:
-      return "Mardu chases, hyhyhy hyhyhy";
+      return "Quchum qyartush, tany pupush";
   }
 }
