@@ -11,6 +11,6 @@ function getMeme(sketchNumber){
     case 5:
       return "Che, t@riq 40 metr en kom";
     case 6:
-      return "De es helnum em txeqi het blot xaghalu";
+      return "Mardu chases, hyhyhy hyhyhy";
   }
 }
